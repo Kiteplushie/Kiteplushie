@@ -7,3 +7,8 @@ WIPWPPWPWPWP
 
 
 <img src="https://github.com/Tordplushie/Tordplushie/blob/7e5f8351e374582bde6e171e9a72ac130fb6938d/anothertordgraph.gif" width="800">
+
+<img src="https://github.com/Tordplushie/Tordplushie/blob/3580bcc83f7092ed3087a1844c221b6a640eeb58/whitebarrier%20swirl.png" width="500">
+
+
+Graphic made by @MASQURADE-PARTY 
