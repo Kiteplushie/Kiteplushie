@@ -11,4 +11,4 @@ WIPWPPWPWPWP
 <img src="https://github.com/Tordplushie/Tordplushie/blob/3580bcc83f7092ed3087a1844c221b6a640eeb58/whitebarrier%20swirl.png" width="500">
 
 
-Graphic made by @MASQURADE-PARTY 
+Graphic made by @MASQUERADE-PARTY 
