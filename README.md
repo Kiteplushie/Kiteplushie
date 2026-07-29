@@ -2,7 +2,7 @@ WIPWPPWPWPWP
 <div align="center"
   
 <p align="center">
-<img src="https://github.com/Tordplushie/Tordplushie/blob/c309706a484d4519cdfcb056fcb4a3fb5d826e02/Tord%20spinning%20barrier.webp" width="800">
+<img src="https://github.com/Tordplushie/Tordplushie/blob/ee02bf45e9574c85344a51303ad8de63b0cec332/whitelaces.png" width="1000">
 </p> 
 
 
