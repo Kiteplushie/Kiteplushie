@@ -12,3 +12,8 @@ WIPWPPWPWPWP
 
 
 Graphic made by @MASQUERADE-PARTY 
+
+<img src="https://github.com/Tordplushie/Tordplushie/blob/c6d7f24b20aa6f43f2ebab2eae4705f54e1c13ee/injured%20sad%20tord.webp" width="500">
+
+Not finished
+
