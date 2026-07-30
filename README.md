@@ -17,3 +17,17 @@ Graphic made by @MASQUERADE-PARTY
 
 Not finished
 
+
+
+
+
+
+
+
+
+
+
+
+
+people think drowning is beautiful. unless they’re the one drowning. 
+
