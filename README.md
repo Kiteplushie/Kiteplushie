@@ -22,12 +22,5 @@ Not finished
 
 
 
-
-
-
-
-
-
-
-people think drowning is beautiful. untill they’re the one drowning. 
+remaking this.. someday..
 
