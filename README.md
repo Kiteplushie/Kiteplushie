@@ -10,10 +10,10 @@ WIPWPPWPWPWP
 
 <img src="https://github.com/Tordplushie/Tordplushie/blob/24b686fbc7cf130da87c6ced6f8d1dd150675c41/redbarrier%20sparkles.png " width="600"> </p>
 
-<img align="left" width="30" src="https://github.com/Tordplushie/Tordplushie/blob/7e5f8351e374582bde6e171e9a72ac130fb6938d/anothertordgraph.gif">
+<img align="left" width="300" src="https://github.com/Tordplushie/Tordplushie/blob/aa34fc61bc32961e32c268c0bd39b7b9dbd31f45/pinned%20heart.png"> 
+text.. uhmm text
 
-<--- graphic made by @MASQUERADE-PARTY 
+more text
 
-DONT ASK WHY ITS SO SMALL HELP
 
 
