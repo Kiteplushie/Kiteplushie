@@ -8,6 +8,8 @@ WIPWPPWPWPWP
 <img src="https://github.com/Tordplushie/Tordplushie/blob/7cee9782b65903d5036e4c70dcfd8a6b54f61a6b/FA50A201-B71A-4D02-B93F-08732FD1AA01.png" width="700">
 </p> 
 
+<img src="https://github.com/Tordplushie/Tordplushie/blob/24b686fbc7cf130da87c6ced6f8d1dd150675c41/redbarrier%20sparkles.png " width="600"> </p>
+
 <img align="left" width="30" src="https://github.com/Tordplushie/Tordplushie/blob/7e5f8351e374582bde6e171e9a72ac130fb6938d/anothertordgraph.gif">
 
 <--- graphic made by @MASQUERADE-PARTY 
