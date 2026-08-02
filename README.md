@@ -5,6 +5,8 @@ WIPWPPWPWPWP
 
  
 <p align="center">
+
+  PLEASE VIEW IN PC FOR A BETTER LOOK!! it looks buns in mobile HELP
 <img src="poppytordgraph.png" width="600">
 </p> 
 
