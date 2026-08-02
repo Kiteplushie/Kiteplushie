@@ -2,7 +2,7 @@ WIPWPPWPWPWP
 <div align="center"
 
   
- <img src="https://github.com/Tordplushie/Tordplushie/blob/afa314145f75ffa2a67913291428abeb66beaa3d/bloodbarrier.png" width="1000"> </p>
+
  
 <p align="center">
 <img src="poppytordgraph.png" width="600">
