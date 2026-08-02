@@ -12,10 +12,27 @@ WIPWPPWPWPWP
 
 
 
-<img align="left" width="300" src="loveletter.png">
+<img align="left" width="350" src="loveletter.png">
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/5f3c0f2b4181472ae89f16dd1f42b99fa219f211/redkey.webp" />
 text here.. text ext.. more text.. wip..
-<img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/e12792bfb86115e96c93be870968c77a14ef8682/bloodybandaid.webp" />
+
+more  text text
+
+text textt text text
+
+textextext
+texxtxt
+
+texxt 
+
+etxtxt
+
+OMF HOW 
+
+MANY
+<img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/49dc9a428ab052e286ac0e10d342e51306fa0cd3/lelesomething.webp" />
+
+<br> <br>
  <img src="https://github.com/Tordplushie/Tordplushie/blob/24b686fbc7cf130da87c6ced6f8d1dd150675c41/redbarrier%20sparkles.png " width="600"> </p>
 <br> <br>
 
