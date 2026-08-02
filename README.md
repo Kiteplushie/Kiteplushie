@@ -14,8 +14,7 @@ WIPWPPWPWPWP
 
 <img align="left" width="400" src="loveletter.png">
 
-<img width="11%" src="bloody.bandaid.webp" />
-
+<img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/e12792bfb86115e96c93be870968c77a14ef8682/bloodybandaid.webp" />
 text here.. text ext.. more text.. wip..
 
  <img src="https://github.com/Tordplushie/Tordplushie/blob/24b686fbc7cf130da87c6ced6f8d1dd150675c41/redbarrier%20sparkles.png " width="600"> </p>
