@@ -8,6 +8,8 @@ WIPWPPWPWPWP
 
   PLEASE VIEW IN PC FOR A BETTER LOOK!! it looks buns in mobile HELP
 
+  scroll to see two cuties spinning!
+
   <img align="left" width="100" src="https://github.com/Tordplushie/Tordplushie/blob/74d8167ac468f22cf5fe4af5aa5315b60cad84be/redarmy2.png">
   <img align="right" width="100" src="https://github.com/Tordplushie/Tordplushie/blob/74d8167ac468f22cf5fe4af5aa5315b60cad84be/redarmy2.png">
 <img src="poppytordgraph.png" width="600">
