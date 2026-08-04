@@ -1,4 +1,4 @@
-WIPWPPWPWPWP
+
 <div align="center"
 
   
@@ -6,9 +6,6 @@ WIPWPPWPWPWP
  
 <p align="center">
 
-  PLEASE VIEW IN PC FOR A BETTER LOOK!! it looks buns in mobile HELP
-
-  scroll to see two cuties spinning!
 
   
 <img src="https://github.com/Tordplushie/Tordplushie/blob/d16a89b09d03911a20a65be7d1dd87bda5b13c19/RENTRY.png" width="1000">
