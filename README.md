@@ -6,7 +6,7 @@
  
 <p align="center">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E1C692&width=435&lines=%22+%F0%9D%90%BF%F0%9D%91%92%F0%9D%93%89+%F0%9D%92%9F%F0%9D%91%92%F0%9D%92%B6%F0%9D%93%89%F0%9D%92%BD+%F0%9D%90%B5%F0%9D%93%81%F0%9D%91%92%F0%9D%93%88%F0%9D%93%88+%F0%9D%93%82%F0%9D%91%92.+.+%22;%22+%F0%9D%92%B2%F0%9D%92%BE%F0%9D%93%89%F0%9D%92%BD+%F0%9D%93%8E%F0%9D%91%9C%F0%9D%93%8A%F0%9D%93%8A.+.+%22)](https://git.io/typing-svg)
   
 <img src="https://github.com/Tordplushie/Tordplushie/blob/d16a89b09d03911a20a65be7d1dd87bda5b13c19/RENTRY.png" width="1000">
 </p> 
