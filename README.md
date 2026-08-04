@@ -27,9 +27,9 @@
 
  $\texttt{\color{#D7C7A3FF}Tordtom lover, eddsw int!}$
 
- $\texttt{\color{#D7C7A3FF}}$ 
+ $\texttt{\color{#D7C7A3FF}These art arent made by me, creds for the actual artists!}$ 
 
- $\texttt{\color{#D7C7A3FF}}$
+ $\texttt{\color{#D7C7A3FF}tho these graphs r made by me.}$
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/49dc9a428ab052e286ac0e10d342e51306fa0cd3/lelesomething.webp" />
 
 <br> <br>
