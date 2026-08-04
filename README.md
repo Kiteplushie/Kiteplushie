@@ -37,14 +37,6 @@ MANY
 
 <br> <br>
  <img src="https://github.com/Tordplushie/Tordplushie/blob/24b686fbc7cf130da87c6ced6f8d1dd150675c41/redbarrier%20sparkles.png " width="600"> </p>
-<br> <br>
-
-<IMG WIDTH="11%" SRC="https://github.com/Tordplushie/Tordplushie/blob/5676e7bb194514a924872af408e8898704b11e8d/tomspinningplushie.webp" />
-<img width="11%" src="https://github.com/Tordplushie/Tordplushie/blob/e32741b1a2097da54cfe052f4fb8b68a471c3bb0/tord%20spinning%20plushie.webp" />
-<br>
-
-
-dumb and dumber
 
 <img src="tord divider down.png" width="1000">
 </p>
