@@ -12,7 +12,7 @@
 </p> 
 
 
- $\texttt{\color{#998355}" loveable me! "}$
+ $\texttt{\color{#D7C7A3FF}" loveable me! "}$
 
 
 <img align="left" width="350" src="loveletter.png">
