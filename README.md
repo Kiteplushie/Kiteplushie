@@ -10,9 +10,8 @@ WIPWPPWPWPWP
 
   scroll to see two cuties spinning!
 
-  <img align="left" width="100" src="https://github.com/Tordplushie/Tordplushie/blob/74d8167ac468f22cf5fe4af5aa5315b60cad84be/redarmy2.png">
-  <img align="right" width="100" src="https://github.com/Tordplushie/Tordplushie/blob/74d8167ac468f22cf5fe4af5aa5315b60cad84be/redarmy2.png">
-<img src="poppytordgraph.png" width="600">
+  
+<img src="https://github.com/Tordplushie/Tordplushie/blob/d16a89b09d03911a20a65be7d1dd87bda5b13c19/RENTRY.png" width="1000">
 </p> 
 
 
