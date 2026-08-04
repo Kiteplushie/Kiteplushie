@@ -15,7 +15,7 @@ WIPWPPWPWPWP
 </p> 
 
 
- $\texttt{\color{#998355}'. 𝔚𝔬𝔫𝔱 𝔶𝔬𝔲 𝔡𝔦𝔢 𝔣𝔬𝔯 𝔏𝔬𝔳𝔢 . . . ? '}$
+ $\texttt{\color{#998355}" 𝐿𝑒𝓉 𝒟𝑒𝒶𝓉𝒽 𝐵𝓁𝑒𝓈𝓈 𝓂𝑒. . "}$
 
 
 <img align="left" width="350" src="loveletter.png">
