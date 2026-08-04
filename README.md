@@ -17,22 +17,19 @@
 
 <img align="left" width="350" src="loveletter.png">
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/5f3c0f2b4181472ae89f16dd1f42b99fa219f211/redkey.webp" />
-text here.. text ext.. more text.. wip..
 
-more  text text
+ $\texttt{\color{#D7C7A3FF}c+h enc always!! unless my name says so!}$
 
-text textt text text
+ 
+ $\texttt{\color{#D7C7A3FF}Tord and matt kinnie!!}$
 
-textextext
-texxtxt
+ $\texttt{\color{#D7C7A3FF}Ivary | Solros}$
 
-texxt 
+ $\texttt{\color{#D7C7A3FF}Tordtom lover, eddsw int!}$
 
-etxtxt
+ $\texttt{\color{#D7C7A3FF}}$ 
 
-OMF HOW 
-
-MANY
+ $\texttt{\color{#D7C7A3FF}}$
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/49dc9a428ab052e286ac0e10d342e51306fa0cd3/lelesomething.webp" />
 
 <br> <br>
