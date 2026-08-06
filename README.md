@@ -20,14 +20,15 @@
 
  $\texttt{\color{#D7C7A3FF}c+h enc always!! unless my name says so!}$
 
- 
+  $\texttt{\color{#D7C7A3FF}selective sharing!}$
+  
  $\texttt{\color{#D7C7A3FF}Tord and matt kinnie!!}$
 
  $\texttt{\color{#D7C7A3FF}Ivary | Solros}$
 
  $\texttt{\color{#D7C7A3FF}Tordtom lover, eddsw int!}$
 
- $\texttt{\color{#D7C7A3FF}These art arent made by me, creds for the actual artists!}$ 
+ $\texttt{\color{#D7C7A3FF}I dont really care about ships, oh you like tomtord? great! tordmatt? hooray! bacon cola? awesome! just dont be problematic!!}$ 
 
  $\texttt{\color{#D7C7A3FF}tho these graphs r made by me.}$
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/49dc9a428ab052e286ac0e10d342e51306fa0cd3/lelesomething.webp" />
@@ -37,4 +38,8 @@
 
 <img src="tord divider down.png" width="1000">
 </p>
+
+
+<br> <br> 
+ill be adding more here soon. 
 
