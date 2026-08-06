@@ -29,7 +29,7 @@
  $\texttt{\color{#D7C7A3FF}tho these graphs r made by me.}$
 
  <details>
-<summary> $\texttt{\color{#D7C7A3FF}boundaries.}$</summary>
+<summary> $\texttt{\color{#D7C7A3FF}" CLASSIC stupid TOM! "}$</summary>
  $\texttt{\color{#D7C7A3FF}C+H is absolutely fine! i dont mind having company!}$
    
    $\texttt{\color{#D7C7A3FF}I am mostly offtab! i have work to do you know!}$
