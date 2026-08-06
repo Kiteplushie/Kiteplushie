@@ -26,9 +26,19 @@
 
  $\texttt{\color{#D7C7A3FF}Tordtom lover, eddsw int!}$
 
- $\texttt{\color{#D7C7A3FF}I dont really care about ships, oh you like tomtord? great! tordmatt? hooray! bacon cola? awesome! just dont be problematic!!}$ 
-
  $\texttt{\color{#D7C7A3FF}tho these graphs r made by me.}$
+
+ <details>
+<summary> $\texttt{\color{#D7C7A3FF}boundaries.}$</summary>
+ $\texttt{\color{#D7C7A3FF}C+H is absolutely fine! i dont mind having company!}$
+   
+   $\texttt{\color{#D7C7A3FF}I am mostly offtab! i have work to do you know!}$
+
+   $\texttt{\color{#D7C7A3FF}Tom fictkins int with caution unless were oomfs!}$
+
+  
+</details>
+
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/49dc9a428ab052e286ac0e10d342e51306fa0cd3/lelesomething.webp" />
 
 <br> <br>
