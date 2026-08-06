@@ -37,6 +37,8 @@
 
    $\texttt{\color{#D7C7A3FF}ppl under 13 may iwc..}$
 
+  $\texttt{\color{#D7C7A3FF}Do not copy, be original. ask if inspo!}$
+
   
 </details>
 
