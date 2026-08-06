@@ -18,13 +18,13 @@
 <img align="left" width="350" src="loveletter.png">
 <img width="5%" src="https://github.com/Tordplushie/Tordplushie/blob/5f3c0f2b4181472ae89f16dd1f42b99fa219f211/redkey.webp" />
 
- $\texttt{\color{#D7C7A3FF}c+h enc always!! unless my name says so!}$
+ $\texttt{\color{#D7C7A3FF}c+h enc always, unless my name says so!}$
   
- $\texttt{\color{#D7C7A3FF}Tord and matt kinnie!!}$
+ $\texttt{\color{#D7C7A3FF}Tord and matt kinnie, selective sharing}$
 
  $\texttt{\color{#D7C7A3FF}Ivary | Solros}$
 
- $\texttt{\color{#D7C7A3FF}Tordtom lover, eddsw int!}$
+ $\texttt{\color{#D7C7A3FF}do not call me commie./sill}$
 
  $\texttt{\color{#D7C7A3FF}tho these graphs r made by me.}$
 
