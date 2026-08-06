@@ -20,7 +20,6 @@
 
  $\texttt{\color{#D7C7A3FF}c+h enc always, unless my name says so!}$
   
- $\texttt{\color{#D7C7A3FF}Tord and matt kinnie, selective sharing}$
 
  $\texttt{\color{#D7C7A3FF}Ivary | Solros}$
 
