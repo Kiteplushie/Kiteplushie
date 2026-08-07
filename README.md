@@ -33,7 +33,7 @@
    
    $\texttt{\color{#D7C7A3FF}I am mostly offtab! i have work to do you know!}$
 
-   $\texttt{\color{#D7C7A3FF}}$
+   $\texttt{\color{#D7C7A3FF}mention starboy tord around me and ill personally skin you alive/nsrs}$
 
    $\texttt{\color{#D7C7A3FF}ppl under 13 may iwc..}$
 
