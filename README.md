@@ -36,12 +36,11 @@ MASQUERADE-PARTY - aww my child
 
 Pixelbrickz - pawwss pawpawww aww
 
-text text tex
+Kite yume
 
-textxt text
+im #sharing
 
-tetxtx
-text 
+wip
 
 
 <br> <br> 
