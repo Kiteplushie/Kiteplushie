@@ -9,6 +9,6 @@
 
 this is wip kacchan come back later
 
-<img align="left" width="400" src="kite chibi.png">
+<img align="left" width="300" src="kite chibi.png">
 
  
