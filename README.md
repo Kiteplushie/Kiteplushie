@@ -10,7 +10,7 @@
 " 𝓈𝒶𝓎 𝓂𝓎 𝓃𝒶𝓂𝑒. "
 
 <img align="left" width="300" src="kite chibi.png">
-text tex text text
+Ivary | Solros
 
 
 <img width="7%" src="https://github.com/Kiteplushie/Kiteplushie/blob/00c6e5530e3c6078dd16e05c1e08a448a5dc5aff/KITE%20GRAPH%201.gif" />
@@ -20,21 +20,21 @@ text tex text text
   <img width="7%" src="https://github.com/Kiteplushie/Kiteplushie/blob/245c92564ca987ba4bbf12235a8217ddae25b107/KITE%20GRAPH%203.gif" />
 
  
-text
-tex text ettext
+I do not mind c+h!
+but yet, please ask if were strangers.
 
-text 
+i dont bother arguing.
 
-text 
-text '
+if we are in bad terms,
+simply block me or ignore.
 
-text text
+mrr
 
 <img align="right" width="300" src="kite awww.png"> 
 
-text 
+MASQUERADE-PARTY - aww my child
 
-text 
+Pixelbrickz - pawwss pawpawww aww
 
 text text tex
 
