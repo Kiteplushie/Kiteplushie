@@ -10,5 +10,8 @@
 this is wip kacchan come back later
 
 <img align="left" width="300" src="kite chibi.png">
+text tex text text
+text
+tex text ettext
 
  
