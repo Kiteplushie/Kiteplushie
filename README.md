@@ -7,7 +7,7 @@
 <img src="kite graphic.png" width="900">
 </p>
 
-this is wip kacchan come back later
+" 𝓈𝒶𝓎 𝓂𝓎 𝓃𝒶𝓂𝑒. "
 
 <img align="left" width="300" src="kite chibi.png">
 text tex text text
