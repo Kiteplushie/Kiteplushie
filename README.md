@@ -28,7 +28,7 @@ i dont bother arguing.
 if we are in bad terms,
 simply block me or ignore.
 
-mrr
+<img width="7%" src="https://github.com/Kiteplushie/Kiteplushie/blob/521b501c84ebe0560eef67a395ba6b056edb0fd1/small%20blue%20hert.png" />
 
 <img align="right" width="300" src="kite awww.png"> 
 
