@@ -43,10 +43,7 @@ textxt text
 tetxtx
 text 
 
-text text
-text 
 
-text
 <br> <br> 
   SOMETHING
   <BR> <BR>
