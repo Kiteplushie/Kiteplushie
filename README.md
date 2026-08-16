@@ -11,6 +11,13 @@ this is wip kacchan come back later
 
 <img align="left" width="300" src="kite chibi.png">
 text tex text text
+<img width="11%" src="KITE GRAPH 1.PNG" />
+<img
+  <img width="11%" src=" whatever link" />
+<img
+  <img width="11%" src=" whatever link" />
+
+ 
 text
 tex text ettext
 
