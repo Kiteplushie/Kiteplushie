@@ -31,5 +31,15 @@ text text tex
 
 textxt text
 
+tetxtx
+text 
+
+text text
+text 
+
+text
+<br> <br> 
+  SOMETHING
+  <BR> <BR>
  <img src="kite divider.png" width="900">
 </p>
