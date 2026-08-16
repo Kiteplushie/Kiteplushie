@@ -14,4 +14,22 @@ text tex text text
 text
 tex text ettext
 
- 
+text 
+
+text 
+text '
+
+text text
+
+<img align="right" width="300" src="kite awww.png"> 
+
+text 
+
+text 
+
+text text tex
+
+textxt text
+
+ <img src="kite divider.png" width="900">
+</p>
