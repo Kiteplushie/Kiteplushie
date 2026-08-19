@@ -56,6 +56,9 @@ please be normal when interacting, i wont bother to block if i have to.
 
   i dont friend people instantly. 
 
+  under 13 iwc.
+
+  over 19 iwc.
   
 </details>
   <BR> <BR>
