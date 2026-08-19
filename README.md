@@ -44,7 +44,20 @@ wip
 
 
 <br> <br> 
-  SOMETHING
+  <details>
+<summary>before int.</summary>
+please be normal when interacting, i wont bother to block if i have to.
+
+  dont approach so sudden, reminder. we are strangers, whisper before doing things like c+h.
+
+  of course, do not be problematic
+
+  extremely dry people irritate me, iwc if you are.
+
+  i dont friend people instantly. 
+
+  
+</details>
   <BR> <BR>
  <img src="kite divider.png" width="900">
 </p>
